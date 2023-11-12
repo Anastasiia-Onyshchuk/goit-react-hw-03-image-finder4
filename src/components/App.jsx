@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import axios from 'axios';
-import toast, {Toaster} from 'react-hot-toast';
+import {Toaster} from 'react-hot-toast';
 import { Searchbar } from './Searchbar/Searchbar';
 import { ImageGallery } from './ImageGallery/ImageGallery';
 import { Button } from './Button/Button';
